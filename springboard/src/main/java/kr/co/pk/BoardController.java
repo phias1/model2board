@@ -5,6 +5,7 @@ import org.springframework.stereotype.Controller;
 
 import kr.co.pk.service.BoardService;
 
+//깃 허브에서 주석
 @Controller
 public class BoardController {
 	@Autowired
